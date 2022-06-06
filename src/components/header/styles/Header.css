@@ -1,0 +1,19 @@
+/* ------- Head div style start------*/
+
+.head {
+    background-color: rgb(136, 126, 126);
+    padding: 10px 0;
+    color: #fff;
+}
+
+.head i {
+    margin-right: 10px;
+    margin-left: 3px;
+}
+
+.head label {
+    margin-right: 30px;
+    font-size: 15px;
+}
+
+/* ------- Head div style start------*/
